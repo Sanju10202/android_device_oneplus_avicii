@@ -1,0 +1,14 @@
+[
+   {
+      "brand": "Oneplus",
+      "codename": "avicii",
+      "name": "Nord",
+      "supported_versions": [
+         {
+            "maintainer_name": "Sreeshankar K",
+            "version_code": "twelve",
+            "version_name": "Twelve"
+         }
+      ]
+   }
+  ]
